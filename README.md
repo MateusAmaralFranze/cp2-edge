@@ -1,4 +1,4 @@
-🛰️ Sistema de Monitoramento Ambiental com Arduino Uno
+Sistema de Monitoramento Ambiental com Arduino Uno
 
 📘 Sumário
 Visão Geral
@@ -148,7 +148,7 @@ yaml
 Copiar
 Editar
 [23/05/2025 18:12:01] Estado: CRÍTICO | Temp: 42.0°C | Umid: 85% | Luz: 930
- Detalhamento das Bibliotecas
+🧰 Detalhamento das Bibliotecas
 Biblioteca	Finalidade
 LiquidCrystal_I2C	Interface com o display LCD via barramento I2C
 DHT.h	Leitura dos sensores DHT22
@@ -168,4 +168,11 @@ Controle remoto por Bluetooth ou app Android.
 Reconfiguração dos limites via Serial ou botão físico.
 
 Atualização automática de firmware (OTA).
+
+📜 Licença e Créditos
+Este projeto é de código aberto e pode ser utilizado para fins educacionais, científicos ou de demonstração comercial. Criado para consultoria e digitalização de ambientes sensíveis, como adegas e laboratórios.
+
+Autor: [Seu Nome]
+Data de Criação: 23/05/2025
+Licença: MIT
 
