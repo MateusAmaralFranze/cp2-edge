@@ -1,3 +1,9 @@
+//Mateus Amaral Franze RM 562334
+//Felipe Sumida RM 563082
+//Henrique de Lima RM 561876
+
+
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>  // Biblioteca para LCD I2C
 #include <DHT.h>
